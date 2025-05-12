@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Felix Sindani, im a Free Code Camp Computer scientist.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
