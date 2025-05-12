@@ -2,7 +2,7 @@
 My name is Felix Sindani, im a Free Code Camp trained Computer scientist interested in all things Python & Data Science.
 - 🔭 I’m currently working on generating QR codes and exploring how Python can solve everyday problems. It's part of a helpful journey I’m documenting — visit my website to follow along!
 - 🌱 I’m currently learning how to create a YouTube Video Downloader with Python
-- 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding journey — let’s connect and create together.
+- 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding journey https://www.youtube.com/channel/UCH1cUOv6fgHBimvk7fX5cEQ — let’s connect and create together.
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
