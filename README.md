@@ -3,7 +3,7 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 🔭 I’m currently working on RentMyCaravan.io, a full-stack PHP/MySQL application for caravan rentals. It's all part of a helpful journey I’m documenting https://github.com/Vybekid/rentmycaravan.git  — visit my website to follow along!
 - 🌱 I’m currently learning how to design complex APIs with Python
 - 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding journey https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA — let’s connect and create together.
-- - 📫 How to reach me: ... https://github.com/Vybekid/Git-Feedback.git
+- - 📫 How to reach me: felobitto@gmail.com 
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
