@@ -4,7 +4,7 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 🌱 I’m currently learning how to design complex APIs with Python Here is a quick Sample - https://github.com/Vybekid/Get-Books-Online.git
 - 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - 📫 How to reach me: felobitto@gmail.com
-- ⚡ Fun fact: I love God, the original Programmer: 
+- ⚡ Fun fact: I love God, the original Programmer: https://github.com/Vybekid/Hare-Krishna.git
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
