@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Felix Sindani, im a Free Code Camp trained Computer scientist interested in all things Python & Data Science.
 - ⚡ Fun fact: I love God, the original Programmer: https://github.com/Vybekid/Hare-Krishna.git
-- 🔭 I’m currently working on RentMyCaravan.io, a full-stack PHP/MySQL application for caravan rentals https://github.com/Vybekid/rentmycaravan.git
+- 🔭 I’m currently working on Revisiting the basics to strengthen my python programming skills
 - 🌱 I’m currently learning how to integrate Python talents with AI and Forex/crypto trading
 - 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - 📫 How to reach me: felobitto@gmail.com
