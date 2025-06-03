@@ -2,7 +2,7 @@
 My name is Felix Sindani, im a Free Code Camp trained Computer scientist interested in all things Python & Data Science.
 - ⚡ Fun fact: I love God, the original Programmer: https://github.com/Vybekid/Hare-Krishna.git
 - 🔭 I’m currently working on Revisiting the basics to strengthen my python programming skills
-- 🌱 I’m currently Going back to the basics of programming
+- 🌱 I’m currently Going back to the basics of programming with python to understand what exactly im doing
 - 👯 I’m looking to collaborate on  YouTube videos! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - 📫 How to reach me: felobitto@gmail.com
 
