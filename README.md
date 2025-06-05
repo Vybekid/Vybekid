@@ -4,8 +4,7 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 🔭 I’m currently working on Revisiting the basics to strengthen my python programming skills
 - 🌱 I’m currently Going back to the basics of programming with python to understand what exactly im doing
 - 👯 I’m looking to collaborate on  YouTube! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
-- 📫 How to reach me: felobitto@gmail.com
-
+- 📫 How to reach me on fiverr: https://www.fiverr.com/vybekid/buying?source=avatar_menu_profile
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
