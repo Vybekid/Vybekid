@@ -5,7 +5,7 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 🌱 I’m currently Selling my Python programming Gig on Fiverr
 - 👯 I’m looking to collaborate on  YouTube! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - 📫 How to reach me on fiverr.com: https://www.fiverr.com/vybekid/buying?source=avatar_menu_profile
-- Email: i will type
+- Email: felobitto@gmail.com
 <!--
 **Vybekid/Vybekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
