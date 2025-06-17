@@ -6,4 +6,4 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 👯 I’m looking to collaborate on  YouTube! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - 📫 How to reach me on fiverr.com: https://www.fiverr.com/vybekid/buying?source=avatar_menu_profile
 - Email: felobitto@gmail.com
-- My real question is how can i be/do better in devoting all my works, for Krishna
+- Big Moves
