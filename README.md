@@ -6,4 +6,4 @@ My name is Felix Sindani, im a Free Code Camp trained Computer scientist interes
 - 👯 I’m looking to collaborate on  YouTube! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA
 - Get ready for simple yet comprehensive project tutorials, inspired by Krishna.
 - 📫 How to reach me on fiverr.com: https://www.fiverr.com/vybekid/buying?source=avatar_menu_profile
-- Locked in -Lord Sri Krishna ❤ lead the way
+- Everyday I ask, How can I love God better
