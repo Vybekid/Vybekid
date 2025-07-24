@@ -1,7 +1,8 @@
-## Hi there 👋
-My name is Felix Sindani, im a Free Code Camp trained Computer scientist interested in all things Python & Data Science
-- ⚡ Fun fact: I love God, the original Programmer: https://github.com/Vybekid/Hare-Krishna.git.
--  If God got us, we gon be alright
-- 🌱 I’m currently working on simple designs, intergrading both backend posts and learning some frontend developing
-- 👯 I’m looking to collaborate on  YouTube and figma! Whether it’s building projects, tutorials, or documenting the coding expirience https://www.youtube.com/channel/UC87Way1BmG20oDruYdpr9JA.
+### Hi there, I'm Felix 👋
 
+I'm a Python and Data Science enthusiast, trained at Free Code Camp, with a passion for clean code and creative problem-solving. I'm currently focused on developing my front-end skills and integrating back-end functionalities.
+
+- 🌱 **I’m currently learning:** Front-end development to complement my back-end skills.
+- 👯 **I’m looking to collaborate on:** YouTube videos, tutorials, and open-source projects. Let's build something cool!
+- 📫 **How to reach me:** [Your Email Address] or connect with me on [LinkedIn](https://linkedin.com/in/felix-sindani-283b06219).
+- ⚡ **Fun fact:** I believe in God, the original programmer!
