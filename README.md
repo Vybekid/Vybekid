@@ -7,4 +7,3 @@ I'm a Python and Data Science enthusiast, trained at Free Code Camp, with a pass
 - 📫 **How to reach me: felobitto@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/felix-sindani-283b06219)
 - ⚡ **Fun fact:** I believe in God, the original programmer!
 - Tech-Savvy Communicator | FreeCodeCamp-Trained Programmer | Certified Academic Writer | YouTube Creator
-- Thank You Krishna, for saving me from myself
