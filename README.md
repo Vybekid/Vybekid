@@ -1,4 +1,4 @@
-### Hi there, I'm Felix 👋
+### Hi there, I'm Felix 👋.
 
 I'm a Python and Data Science enthusiast, trained at Free Code Camp, with a passion for clean code and creative problem-solving. I'm currently focused on developing my front-end skills and integrating back-end functionalities.
 
