@@ -7,4 +7,4 @@ I'm a Python and Data Science enthusiast, trained at Free Code Camp, with a pass
 - 📫 **How to reach me: felobitto@gmail.com.
 - Connect with me on [LinkedIn](https://linkedin.com/in/felix-sindani-283b06219)
 - ⚡ **Fun fact:** I believe in God, the original programmer
--God is the Greatest.
+-God is the Greatest
